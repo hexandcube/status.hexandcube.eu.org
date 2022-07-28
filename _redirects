@@ -1,1 +1,2 @@
-* https://hexandcube.statuspage.io/:splat 200!
+/subscribe/* https://hexandcube.instatus.com/:splat 301!
+* https://hexandcube.instatus.com/:splat 200!
